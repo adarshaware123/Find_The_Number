@@ -31,6 +31,10 @@ If you click the wrong number, score will decrease by 20 points
 Try to score as high as possible before time runs out ⏳
 
 📷 Screenshots
+<img width="1899" height="866" alt="Screenshot 2026-03-22 132950" src="https://github.com/user-attachments/assets/1efefdc6-53a5-4b87-a7f9-4b74bf8a0d86" />
+<img width="786" height="311" alt="Screenshot 2026-03-22 133033" src="https://github.com/user-attachments/assets/4f07db70-e35b-4e1d-a1af-e7b385e08047" />
+<img width="1610" height="705" alt="Screenshot 2026-03-22 133050" src="https://github.com/user-attachments/assets/dcf6d366-fd9a-4729-b663-79f34eb50693" />
+
 
 
 👨‍💻 Author
